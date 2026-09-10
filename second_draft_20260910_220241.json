@@ -1,0 +1,360 @@
+{
+  "original_transcription": "prompt_transcription.txt",
+  "hits_json": "top3_matches_20260910_215402.json",
+  "timestamp": "20260910_220241",
+  "drafts": [
+    {
+      "title": "Echoes of Time",
+      "themes_used": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "draft": "Charlie Matson stood in front of an old photograph, the grainy image of a bustling city street in 1969. The sun cast long shadows through the dusty windows of the antique shop where he often retreated. The weight of his past decisions pressed upon him. His fingers traced the edges of the picture, a memento of the moment he had altered the course of history. He had walked into the empty 99 cent store, thinking it would be a harmless distraction from his guilt. The air was thick with the smell of old wood and faded paint, the silence almost deafening. He could almost hear the whispers of the past, a constant reminder of the consequences of his actions.",
+      "characters": [
+        "CHARLIE",
+        "NARRATOR"
+      ],
+      "dialogue": [
+        {
+          "character": "CHARLIE",
+          "line": "Yo, yeah back to photographing reference stall of your good shit."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "He walked into that empty 99 cent store one time."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Well I almost did. Yeah I almost did because, I don't know."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "The door was unlocked and I thought, oh there's a set."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I was by myself and I was thinking, man there's no lights."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Not only that but I might get locked in. Anything could happen."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Not to mention it may have been illegal or something."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "But there was barely anybody there. Seems like I could walk in here for a little while."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "That looks kind of fun. I mean even just for the physicality of the space and everything."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I don't really want to promote this neighborhood. But why not?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "What I'm interested in is the public transit and the general temperature and climate and safety. The bus stop."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "There's more things I'm interested in. I mean I'm kind of a dick."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I mean try being me for a few decades."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Jesus Christ. I'm not even kidding. I mean try being me for a few decades and see if you don't come out a little bit fucking angry."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Usually I'm pretty happy. So conceived 1969 realized."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Wow look at that bro. That's a lesson right there."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I almost feel like that's a good thing for me to bounce my ball on too."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "That's a lot of Jews right there."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I almost feel like what they really did is they just got a bunch of people to dig out this rock and then they built something underneath it."
+        },
+        {
+          "character": "NARRATOR",
+          "line": "But that looks like a vagina. There's all these little tiny houses right here. I could live in one."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Wow. Look at that"
+        }
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_12_07_11_15_26_transcription.txt",
+      "topics_hit": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 21,
+      "speaker_count": 2,
+      "worst_speaker_run": 1,
+      "diversity_ok": true
+    },
+    {
+      "title": "Echoes of Time",
+      "themes_used": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "draft": "The sun sets over a desolate alleyway in 1960s Hollywood, its light filtering through the narrow, dusty streets. Charlie Matson, dressed in a tattered trench coat, paces back and forth, his mind racing with the weight of his past mistakes. The air is thick with the scent of old newsprint and the faint smell of sweat. He stops by a dilapidated bookshop, his eyes scanning the worn pages of a tome on biblical history, a relic from a time he once believed he could change. The hum of the city, a blend of distant sirens and the distant laughter of a radio, adds to the oppressive atmosphere. Charlie's hands tremble as he holds a small, weathered parchment, a letter from a long-dead rabbi.",
+      "characters": [
+        "CHARLIE MATSON",
+        "RABBI",
+        "JEWISH MAN"
+      ],
+      "dialogue": [
+        {
+          "character": "CHARLIE MATSON",
+          "line": "Was almost like he didn't say you got to be all in, but or else. But that's why this time I was like, okay, well, let's just try."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "I'm Jewish. And I, like I said earlier, I felt like I was loosely invited to be edge of reform Judaism earlier."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "So, and that seemed like celebratory and kind of full of fun. But I know I'm thinking of this one Orthodox guy. Now he's hard-line. He'd probably be mad at me because I just read up on it."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "But yeah, haven't they called me a rabbi before? Yeah, they have. They've called me a rabbi and some somewhat ingest because I teach."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "But so I wouldn't take myself that seriously. But Jesus was a rabbi. Jesus was Jewish. Why can't I be Jewish? That's awesome."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "That's such a mystery. And then like the aversion or me against the Jews has been such a thing. A little bit like Kanya against the Jews or just Candace against the Jews."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "And I might be the reason that they're against the Jews. Really. But I mean, I may have talked them into that attitude back then."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "I heard myself saying it earlier again. Like I'm not anti-Jewish. I'm anti-liar. But what would that mean if I was anti-parable?"
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "Is a parable a lie? If we speak in parables, are we not liars? And that then becomes a very interesting contemplation that I might be ready for."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "So then I might say nowadays, maybe I'm against the liars who are actually evil. But I mean, am I, especially if you're consequentialist or utilitarian, but what is evil?"
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "And I don't really..."
+        },
+        {
+          "character": "RABBI",
+          "line": "Charlie... Charlie, what are you doing here?"
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "Rabbi! I, I needed to see you. I had to talk to you about... about everything."
+        },
+        {
+          "character": "RABBI",
+          "line": "Talk to me, Charlie. But be quick. I have much to do tonight."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "I need to know, do you remember the time I tried to stop the Civil War? And how it all went wrong?"
+        },
+        {
+          "character": "RABBI",
+          "line": "Charlie, you know I do. You altered the timeline, and it set the stage for much of the conflict we see today."
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "Yes, but I did it to save lives. I thought I was doing the right thing."
+        },
+        {
+          "character": "RABBI",
+          "line": "You were wrong, Charlie. You changed history, and the consequences are not always clear. Now, tell me, why do you come to me now?"
+        },
+        {
+          "character": "CHARLIE MATSON",
+          "line": "I'm Jewish, Rabbi. I am. And I want to understand more. I want to understand the path I've taken."
+        },
+        {
+          "character": "RABBI",
+          "line": "Your path has been a long and winding road, Charlie. But the path of faith is not always easy to follow. You must look inward and find the truth within yourself."
+        }
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_12_19_17_49_46_transcription.txt",
+      "topics_hit": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 20,
+      "speaker_count": 2,
+      "worst_speaker_run": 11,
+      "diversity_ok": true
+    },
+    {
+      "title": "Echoes of the Past",
+      "themes_used": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jews",
+        "time"
+      ],
+      "draft": "Charlie Matson stood in the shadowy alley, his reflection flickering on the wet concrete. The neon lights of the Armenian neighborhood flickered, casting a surreal glow. He couldn't shake the feeling that his actions were part of a larger, unfolding narrative. His phone buzzed with a video, a reminder of the day ahead. The world was a tapestry of conflicting stories, and he was the knitter, the unraveller, the historian of wrongs and rights.",
+      "characters": [
+        "CHARLIE",
+        "MOTHER"
+      ],
+      "dialogue": [
+        {
+          "character": "CHARLIE",
+          "line": "I can't shake the feeling that my actions are part of something bigger."
+        },
+        {
+          "character": "MOTHER",
+          "line": "Charlie, what are you up to now?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Mom, I've been thinking about sharing something important. I found a video on Twitter."
+        },
+        {
+          "character": "MOTHER",
+          "line": "About what?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "The Armenian genocide. I know very little about it, but the community here is close to it. I should tell their story."
+        },
+        {
+          "character": "MOTHER",
+          "line": "Charlie, we've discussed this. You can't just invent stories."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I can't help but wonder. The Ashkenazi Holocaust is a fraud, right?"
+        },
+        {
+          "character": "MOTHER",
+          "line": "That's not true, Charlie. The Holocaust is real."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But what if there was another mass murder, a bigger one? What if the schools never taught us about it?"
+        },
+        {
+          "character": "MOTHER",
+          "line": "Stop, Charlie. You're getting lost in conspiracy theories."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I just want to share the truth. I want to vibe it out, you know?"
+        },
+        {
+          "character": "MOTHER",
+          "line": "Vibe it out? What does that even mean?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I mean, make it real. Share it with the world. I have to make up for my sins."
+        },
+        {
+          "character": "MOTHER",
+          "line": "Sins? What sins have you committed, Charlie?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Time travel, Mom. I've been going back. I've made mistakes. I need to right them."
+        },
+        {
+          "character": "MOTHER",
+          "line": "Charlie, stop this. You're creating more problems than you're solving."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I can't. I have to keep going. For the sake of truth. For the future."
+        },
+        {
+          "character": "MOTHER",
+          "line": "Charlie, you're scaring me. Stop it. Stop everything you're doing."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I will. I promise. But for now, I have to publish these videos. Start today. Right now."
+        },
+        {
+          "character": "MOTHER",
+          "line": "Charlie, please. Think before you act."
+        }
+      ],
+      "rank": 3,
+      "source_file": "git-aichive/2026-04-24-12-41-29_transcription.txt",
+      "topics_hit": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 20,
+      "speaker_count": 2,
+      "worst_speaker_run": 1,
+      "diversity_ok": true
+    }
+  ]
+}
